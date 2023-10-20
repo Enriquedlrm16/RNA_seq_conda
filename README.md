@@ -6,7 +6,7 @@ This repository is just to show the most important lines in Bash scripting (Linu
 
 > bash trimmomatic_paired-end.sh SRR_Acc_List.txt
 
-> bash quality_control_single-end_trimmed.sh SRR_Acc_List.txt
+> bash quality_control_paired-end_trimmed.sh SRR_Acc_List.txt
 
 > conda activate salmon
 
